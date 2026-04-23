@@ -1,3 +1,7 @@
 body{
     background-color: lightblue;
 }
+ul li{
+    color: red;
+    display: inline;
+}
